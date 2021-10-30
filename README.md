@@ -1,1 +1,28 @@
 # J072-Machine-Learning-Sem5-repo
+
+Assignments
+
+Practicals
+  - Python in Data Science
+  - Linear Regression
+  - Logistic Regression
+  - Gradient Descent
+  - Support Vector Machine (SVM/SVR)
+  - Grid Search CV
+  - Decision Tree
+  - Ensemble Method
+      - Bagging
+        - Random Forest
+      - Boosting
+        - Adaboost
+        - Xgboost
+      - Voting
+  - K-Nearest Neighbour
+  - Naive Bayes
+  - Principal Component Analysis
+  - K-means
+  - Hierarchical Clustering
+  - DBSCAN
+
+Kaggle Competition
+  - 
